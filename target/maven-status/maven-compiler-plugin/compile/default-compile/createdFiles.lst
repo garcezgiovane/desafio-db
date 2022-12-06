@@ -1,0 +1,7 @@
+com/db/desafiosicredi/model/ContaModel.class
+com/db/desafiosicredi/SincronizacaoReceita.class
+com/db/desafiosicredi/service/CustomMappingStrategy.class
+com/db/desafiosicredi/ReceitaService.class
+com/db/desafiosicredi/service/ProcessaArquivoService.class
+com/db/desafiosicredi/service/GeraReceitaCsv.class
+com/db/desafiosicredi/DesafioSicrediApplication.class
